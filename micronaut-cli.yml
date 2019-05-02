@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: authentication.server.oauth2
+---
+testFramework: junit
+sourceLanguage: java
